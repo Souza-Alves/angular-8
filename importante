@@ -12,3 +12,5 @@ ng generate component nomedocomponent
 ######gerar subcomponent
 ng generate component nomedocomponent/nomedosubcomponent
 
+##
+
