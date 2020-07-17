@@ -1,0 +1,14 @@
+instalar angular
+
+npm install -g @angular/cli@latest
+
+#########criar novo projeto
+ng new nomedoprojeto
+
+######gerarcomponent
+ng generate component nomedocomponent
+
+
+######gerar subcomponent
+ng generate component nomedocomponent/nomedosubcomponent
+
